@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.container{
+
+    font-family: Poppins;
+}
+
+ #title{
+    color: #28b5b5;
+    margin: 5rem;
+    margin-bottom: 2rem;
+    padding: 3rem;
+}
+
+#title .col-md-6 h2{
+    margin-top: 20px; 
+}
+
+#title .col-md-6 h5{
+    font-size: 15px;
+}
+
+#title .col-md-6 img{
+    size: 20%;
+}
+
+.card img{
+    padding: 1rem;
+}
+
+.col-md-3{
+    margin:  2rem;
+    padding: 3rem;
+    border-color: #28b5b5;
+}
+
+.card-body .card-title{
+    
+    color: #28b5b5;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+
+.card-body .card-text{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.card-body .btn{
+    font-weight: 500;
+    color: aliceblue;
+    background-color: #28b5b5;
+    border-color: none;
+    align-items: right;
+    border-radius: 20px; 
+    
+}
+
+.card-body .btn:hover {
+    background-color: #F9B208;
+    transition: 0.3s;
+    color: whitesmoke;
+}
